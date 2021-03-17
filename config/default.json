@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "",
+    "dbURL": "mongodb://localhost/taskmanager"
+}
